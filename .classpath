@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Zvika/Work/DvirSegev/Java/ws/ass6/biuoop-1.4.jar"/>
+	<classpathentry kind="output" path="out/production/ass6"/>
+</classpath>
